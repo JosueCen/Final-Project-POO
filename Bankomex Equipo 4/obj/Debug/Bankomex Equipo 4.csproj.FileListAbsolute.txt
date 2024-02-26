@@ -1,0 +1,23 @@
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\bin\Debug\Bankomex Equipo 4.exe.config
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\bin\Debug\Bankomex Equipo 4.exe
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\bin\Debug\Bankomex Equipo 4.pdb
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\bin\Debug\System.Data.SQLite.dll
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex Equipo 4.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.AltaClienteForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.AltaCuentaForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.BúsquedaClienteIdForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.BúsquedaClienteNombreForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.BúsquedaCuentaIdClienteForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.BúsquedaCuentaIdCuentaForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.BúsquedaCuentaNombreForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.CorteDiciembreForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.CorteEneroNoviembreForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.DepósitosForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.MainForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.Properties.Resources.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex_Equipo_4.RetirosForm.resources
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex Equipo 4.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex Equipo 4.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex.59B80AB5.Up2Date
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex Equipo 4.exe
+C:\Users\josue\Desktop\Bankomex Equipo 4\Bankomex Equipo 4\obj\Debug\Bankomex Equipo 4.pdb
